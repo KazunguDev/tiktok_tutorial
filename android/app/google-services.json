@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723426063324",
+    "project_id": "tiktok-tutorial-d3d42",
+    "storage_bucket": "tiktok-tutorial-d3d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723426063324:android:9984fbe83b47e7f079d519",
+        "android_client_info": {
+          "package_name": "com.kazungudev.tiktok_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARXJqHfRm6_ptYmmmn4I2chRXrlXvVWwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
